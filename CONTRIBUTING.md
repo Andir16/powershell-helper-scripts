@@ -34,4 +34,4 @@ If you have any questions or need help, please open an issue in the GitHub repos
 
 ## Thank You!
 
-Thank you for contributing to PowerShell-UtilityKit. Your time and effort are greatly appreciated by the community!
+Thank you for contributing to powershel helper scripts. Your time and effort are greatly appreciated by the community!
